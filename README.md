@@ -1,4 +1,4 @@
-# Text-to-Speech-Project
+# Text-to-Speech-Project Development
 
 This Text-to-Speech project aims to assist students in better understanding lecturers by offering a transcription of lessons by converting a lecturers voice to text. 
 
